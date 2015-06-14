@@ -46,7 +46,7 @@ footer {
     font-size: .8em;
 }
 
-li {
+ul li, ol li {
     font-family: 'Helvetica', 'Arial', 'Sans-Serif';
     font-size:1em;
     list-style: square;
