@@ -31,6 +31,10 @@ h3 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     font-size: 2em;
 }
+h4 {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 1.5em;
+}
 p {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     font-size: 1em;
@@ -50,4 +54,6 @@ ul.posts {
 
 ul.posts li {
     list-style: square;
+    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 1em;
 }
