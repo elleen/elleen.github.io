@@ -46,14 +46,18 @@ footer {
     font-size: .8em;
 }
 
+li {
+    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+    font-size:1em;
+    list-style: square;
+}
+
 ul.posts { 
     margin: 20px auto 40px; 
-    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
     font-size: 1.5em;
 }
 
 ul.posts li {
     list-style: square;
-    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
     font-size: 1em;
 }
