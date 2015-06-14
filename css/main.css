@@ -1,6 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
+    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -49,7 +50,7 @@ footer {
 ul li, ol li {
     font-family: 'Helvetica', 'Arial', 'Sans-Serif';
     font-size:1em;
-    list-style: square;
+    list-style-type: square;
 }
 
 ul.posts { 
@@ -58,6 +59,6 @@ ul.posts {
 }
 
 ul.posts li {
-    list-style: square;
+    list-style-type: square;
     font-size: 1em;
 }
