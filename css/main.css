@@ -13,13 +13,20 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+
+a[current-page="true"] {
+    color:#000;
+}
+
 a {
     color: #999;
     text-decoration: none;
 }
 a:hover {
-    color: #c5c5c5;
+    color: #000;
 }
+
+
 
 h1 {
     font-size: 3em;
