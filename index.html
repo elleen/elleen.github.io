@@ -1,18 +1,53 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>home : elleen pan</title>
+	<title>template : elleen pan</title>
 	<meta charset="UTF-8">
 	<meta name="author" content="Elleen Pan">
 	<!-- link to main stylesheet -->
-	<link rel="stylesheet" type="text/css" href="/bootstrap-3.3.5-dist/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="../bootstrap-3.3.5-dist/css/bootstrap.min.css">
 	<script type="text/javascript" src="google-analytics.js" async></script>
 	<link rel="icon" type="image/ico" href="media/favicon.ico"/>
+	<script>
+	$(document).ready(function(){
+		$(document.body).css('padding-top', $('#topnavbar').height() + 10);
+		$(window).resize(function(){
+			$(document.body).css('padding-top', $('#topnavbar').height() + 10);
+		});
+	});
+	</script>
 </head>
 <body>
-	<div class="text-center">
-		this is under construction<br>
-		hit me up <a href="http://twitter.com/elleenpan">@elleenpan</a> if you want to talk
+	<nav class="navbar navbar-default navbar-fixed-top" id="topnavbar">
+		<div class="container-fluid">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand" href="/">elleen pan</a>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="/about">about</a></li>
+					<li><a href="/resume">résumé</a></li>
+					<li><a href="http://elleenpan.blogspot.com/">blog</a></li>
+					<li><a href="/contact">contact</a></li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+	<div class="container">
+		<div class="about-body">
+			<p>Hello, and welcome to my page! Use the top nav to check it out or  hit me up <a href="http://twitter.com/elleenpan">@elleenpan</a> if you want to talk otherwise : )
+		</div>
 	</div>
+	<footer class="footer">
+		<a href="https://www.twitter.com/elleenpan">twitter</a> · <a href="mailto:hello@elleenpan.com">email</a>
+	</footer>
 </body>
 </html>

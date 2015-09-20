@@ -5,12 +5,20 @@
 	<meta charset="UTF-8">
 	<meta name="author" content="Elleen Pan">
 	<!-- link to main stylesheet -->
-	<link rel="stylesheet" type="text/css" href="/bootstrap-3.3.5-dist/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="../bootstrap-3.3.5-dist/css/bootstrap.min.css">
 	<script type="text/javascript" src="google-analytics.js" async></script>
 	<link rel="icon" type="image/ico" href="media/favicon.ico"/>
+	<script>
+	$(document).ready(function(){
+		$(document.body).css('padding-top', $('#topnavbar').height() + 10);
+		$(window).resize(function(){
+			$(document.body).css('padding-top', $('#topnavbar').height() + 10);
+		});
+	});
+	</script>
 </head>
 <body>
-	<nav class="navbar navbar-default navbar-fixed-top">
+	<nav class="navbar navbar-default navbar-fixed-top" id="topnavbar">
 		<div class="container-fluid">
 			<div class="navbar-header">
 				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
@@ -39,11 +47,8 @@
 			<p>I'm some text!</p>
 		</div>
 	</div>
-	<footer>
-		<ul>
-			<li><a href="https://www.twitter.com/elleenpan">twitter</a></li>
-			<li><a href="mailto:hello@elleenpan.com">email</a></li>
-		</ul>
+	<footer class="footer">
+		<a href="https://www.twitter.com/elleenpan">twitter</a> · <a href="mailto:hello@elleenpan.com">email</a>
 	</footer>
 </body>
 </html>
