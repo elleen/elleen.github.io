@@ -9,4 +9,5 @@ body {
 	width: 100%;
 	height: 60px;
 	margin-top: 20px;
+	border-top:dashed #666;
 }
