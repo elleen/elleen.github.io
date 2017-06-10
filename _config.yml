@@ -1,7 +1,10 @@
 theme: jekyll-theme-minimal
+icon: /icon.png
 title: elleen pan
 description: |
+    <a href="/">home</a> //
     <a href="https://www.github.com/elleen">github</a>
+favicon: /favicon.ico
 show_downloads: false
 google_analytics: UA-64325333-1
 github.is_project_page: false
