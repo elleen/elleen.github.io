@@ -3,6 +3,7 @@ icon: /icon.png
 title: elleen pan
 description: |
     <a href="/">home</a> //
+    <a href="/resume">resume</a> //
     <a href="https://www.github.com/elleen">github</a>
 favicon: /favicon.ico
 show_downloads: false

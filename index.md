@@ -6,4 +6,4 @@ layout: default
 My name is Elleen and I'm a 5th year (😱 ) computer science student at Northeastern University.
 
 
-_Disclaimer: I'm working on this site. (Forever working on it… 🙄 )_
+*Disclaimer: I'm working on this site. (Forever working on it… 🙄 )*
