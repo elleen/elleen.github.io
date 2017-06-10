@@ -1,14 +1,13 @@
 ---
 layout: default
 ---
-# resume
 
 Education
 ---
 **Northeastern University** · Boston, MA  
 *College of Computer and Information Science*  
-Candidate for a Bachelor of Science in Computer Science (expected graduation in May 2018)  
-Aug 2013 - present  
+Candidate for a Bachelor of Science in Computer Science  
+Aug 2013 - *present* (expected graduation in May 2018)  
 * **Coursework:** Software Development, Programming Languages, Theory of Computation, Human Computer Interaction, Database Design, Object Oriented Design, Logic & Computation, Mathematical Fundamentals for Games, Discrete Structures, Fundamentals of CS 1 & 2
 
 **Diamond Bar High School** · Diamond Bar, CA  
