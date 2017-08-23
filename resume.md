@@ -35,5 +35,5 @@ Technical Skills
 * **Languages:** Python, Java, Scheme (Racket), Bash, HTML, CSS, JavaScript
 * **Databases:** MySQL, MongoDB
 * **Operating Systems:** macOS, UNIX
-* **Software:** Git, Selenium, Appium, CasperJS, Photoshop, Illustrator, InDesign
+* **Software:** Git, Selenium, Appium, CasperJS
 * Experience working in Agile (Scrum & Kanban) workflow
