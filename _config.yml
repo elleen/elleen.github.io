@@ -6,8 +6,6 @@ description: |
     <a href="/resume">resume</a> //
     <a href="https://www.github.com/elleen">github</a>
 favicon: /favicon.ico
-show_downloads: false
 google_analytics: UA-64325333-1
-github.is_project_page: false
 email_un: elleen
 email_domain: elleenpan.com
