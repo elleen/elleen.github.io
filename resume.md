@@ -8,13 +8,19 @@ Education
 *College of Computer and Information Science*  
 Candidate for a Bachelor of Science in Computer Science  
 Aug 2013 - *present* (expected graduation in May 2018)  
-* **Coursework:** Software Development, Programming Languages, Theory of Computation, Human Computer Interaction, Database Design, Object Oriented Design, Logic & Computation, Mathematical Fundamentals for Games, Discrete Structures, Fundamentals of CS 1 & 2
+* **Coursework:** Networks & Distributed Systems, Algorithms & Data, Game Artificial Intelligence, Computer Systems, Software Development, Programming Languages, Human Computer Interaction, Theory of Computation, Database Design, Object Oriented Design, Logic & Computation, Probability & Statistics, Linear Algebra, Mathematical Fundamentals for Games, Discrete Structures, Fundamentals of CS 1 & 2
+* **Service:** 
+	* **CCIS Fellows** - mentored underclass CS students in co-op application process, conducted mock behavioral & technical interviews, served as a teaching assistant to a career preparation course (Fall 2017)
 
 **Diamond Bar High School** · Diamond Bar, CA  
 Aug 2009 - June 2013  
 
 Experience
 ---
+**College of Computer Science, Northeastern University** · Boston, MA
+*Research Intern*
+May 2017 - present
+
 **Placester** · Boston, MA  
 *Engineering Co-op*  
 July - Dec 2016  
@@ -32,8 +38,8 @@ Identified and fixed bugs for a website run on Wordpress, fixed bugs for an exte
 
 Technical Skills
 ---
-* **Languages:** Python, Java, Scheme (Racket), Bash, HTML, CSS, JavaScript
+* **Languages:** Python, Java, C++, C, Assembly, Scheme (Racket), Bash, HTML/CSS
 * **Databases:** MySQL, MongoDB
-* **Operating Systems:** macOS, UNIX
-* **Software:** Git, Selenium, Appium, CasperJS
-* Experience working in Agile (Scrum & Kanban) workflow
+* **Operating Systems:** macOS, Linux
+* **Version Control:** Git
+* **Software:** Selenium, Appium, CasperJS
