@@ -23,8 +23,8 @@ Press: [Gizmodo](https://gizmodo.com/these-academics-spent-the-last-year-testing
 Experience
 ---
 **Square** · Atlanta, GA  
+*Software Engineer*  
 starting Aug 2018  
-*Software Engineer* 
 
 **Placester** · Boston, MA  
 *Engineering Co-op*  
