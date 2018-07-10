@@ -14,7 +14,7 @@ Aug 2013 -  May 2018
 
 Publications
 ---
-Elleen Pan, Jingjing Ren, Martina Lindorfer, Christo Wilson, David Choffnes 
+Elleen Pan, Jingjing Ren, Martina Lindorfer, Christo Wilson, David Choffnes  
 **Panoptispy: Characterizing Audio and Video Exfiltration from Android Applications** 
 Proceedings on Privacy Enhancing Technologies (PETS), July 2018 
 [PDF](https://recon.meddle.mobi/papers/panoptispy18pets.pdf), [site](https://recon.meddle.mobi/panoptispy/index.html) 
@@ -22,7 +22,7 @@ Press: [Gizmodo](https://gizmodo.com/these-academics-spent-the-last-year-testing
 
 Experience
 ---
-**Square** · Atlanta, GA 
+**Square** · Atlanta, GA  
 starting Aug 2018 
 *Software Engineer* 
 
