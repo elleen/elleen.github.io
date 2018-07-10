@@ -3,7 +3,8 @@ layout: default
 ---
 # hi!
 
-My name is Elleen and I'm a fifth (& last! 😱 ) year computer science student at Northeastern University.  
+I'm a recent graduate of Northeastern University, where I received my BS in Computer Science. I'm excited to be joining [Square](https://squareup.com/) as a software engineer later this summer.  
 
-Outside of CS, I like cycling, trying new food, and taking care of my houseplants 🌱
+In my free time, I like riding my bike, trying new food, and taking care of my plants 🌱
 
+📍 currently Boston ☃️ , soon Atlanta 🍑

@@ -6,20 +6,25 @@ Education
 ---
 **Northeastern University** · Boston, MA  
 *College of Computer and Information Science*  
-Candidate for a Bachelor of Science in Computer Science  
-Aug 2013 - *present* (expected graduation in May 2018)  
+Bachelor of Science in Computer Science  
+Aug 2013 -  May 2018  
 * **Coursework:** Networks & Distributed Systems, Algorithms & Data, Game Artificial Intelligence, Computer Systems, Software Development, Programming Languages, Human Computer Interaction, Theory of Computation, Database Design, Object Oriented Design, Logic & Computation, Probability & Statistics, Linear Algebra, Mathematical Fundamentals for Games, Discrete Structures, Fundamentals of CS 1 & 2
 * **Extracurricular:** 
 	* **CCIS Fellows** - mentored underclass CS students in co-op application process, conducted mock behavioral & technical interviews, served as a teaching assistant to a career preparation course (Fall 2017)
 
-**Diamond Bar High School** · Diamond Bar, CA  
-Aug 2009 - June 2013  
+Publications
+---
+Elleen Pan, Jingjing Ren, Martina Lindorfer, Christo Wilson, David Choffnes
+**Panoptispy: Characterizing Audio and Video Exfiltration from Android Applications**
+Proceedings on Privacy Enhancing Technologies (PETS), July 2018
+[PDF](https://recon.meddle.mobi/papers/panoptispy18pets.pdf), [site](https://recon.meddle.mobi/panoptispy/index.html)
+Press: [Gizmodo](https://gizmodo.com/these-academics-spent-the-last-year-testing-whether-you-1826961188), [News@Northeastern](https://news.northeastern.edu/2018/07/06/is-your-smartphone-spying-on-you/), etc. 
 
 Experience
 ---
-**College of Computer Science, Northeastern University** · Boston, MA
-*Research Intern*
-May 2017 - present
+**Square** · Atlanta, GA
+starting Aug 2018
+*Software Engineer*
 
 **Placester** · Boston, MA  
 *Engineering Co-op*  
