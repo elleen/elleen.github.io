@@ -20,14 +20,13 @@
 
       <script type="text/javascript">
       e = ('{{ site.email_un }}' + '@' + '{{ site.email_domain }}')
-      document.write('<p><a href="mailto:' + e + '">' + e + '</a></p>')
+      document.write('<p><a href="mailto:' + e + '">' + e + '</a>')
       </script>
       <noscript>
-        <p>{{ site.email_un }} [at] {{ site.email_domain }}</p>
+        <p>{{ site.email_un }} [at] {{ site.email_domain }}
       </noscript>
 
-			<p>
-				🐤 <a href="https://twitter.com/{{ site.twitter }}">@{{ site.twitter }}</a>
+			🐤 <a href="https://twitter.com/{{ site.twitter }}">@{{ site.twitter }}</a><br>
 				<a href="/{{ site.pgpfile }}">PGP</a>
 			</p>
 			
