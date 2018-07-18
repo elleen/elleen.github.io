@@ -28,4 +28,5 @@ Panoptispy
 * TechSpot: [No, your smartphone is not listening to your conversations](https://www.techspot.com/news/75356-no-smartphone-not-listening-conversations.html)
 * Business Today (India): [Smartphone apps don't listen to your conversations, but they do something equally creepy](https://www.businesstoday.in/technology/news/smartphone-apps-do-not-listen-to-your-conversations-but-they-do-something-equally-creepy/story/279907.html)
 * India Today: [Your phone not listening to your private talk, but possibly watching you with camera: Experts](https://www.indiatoday.in/technology/news/story/your-phone-not-listening-to-your-private-talk-but-possibly-watching-you-with-camera-experts-1277022-2018-07-04)
+* Boan News (Korea): [스마트폰이 나를 엿듣고 있다? 아니, 엿보고 있다!](http://www.boannews.com/media/view.asp?idx=70998)
 * [Google aggregate](https://news.google.com/stories/CAAqSQgKIkNDQklTTERvSmMzUnZjbmt0TXpZd1NoOGFIV1JSUjNNMVRsTldNMGxhTlRsT1RVNVpUWGRqVTBGMmJqVlBObnBOS0FBUAE?hl=en-US&gl=US&ceid=US:en)
