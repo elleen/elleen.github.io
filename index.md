@@ -3,8 +3,8 @@ layout: default
 ---
 # Hi!
 
-I'm a recent graduate of Northeastern University, where I received my BS in Computer Science. I'm excited to be joining [Square](https://squareup.com/) as a software engineer later this summer.  
+I'm currently a software engineer at [Square](https://squareup.com/). I recently graduated from Northeastern University, where I received my BS in Computer Science.  
 
 In my free time, I like riding my bike, trying new food, and taking care of my plants 🌱
 
-📍 currently Boston ☃️ , soon Atlanta 🍑
+📍 Atlanta 🍑
