@@ -11,6 +11,7 @@ Panoptispy
 * heise online (Germany): [Forscher: Android-Apps schicken Screenshots und Videos an Drittfirmen ](https://www.heise.de/newsticker/meldung/Forscher-Android-Apps-schicken-Screenshots-und-Videos-an-Drittfirmen-4099744.html)
 * The Register (UK): [Uh-oh. Boffins say most Android apps can slurp your screen – and you wouldn't even know it](https://www.theregister.co.uk/2018/07/04/most_android_apps_can_slurp_your_screen_and_you_wouldnt_even_know/)
 * NetEase (China): [研究称你的手机没有偷听你 但可能监视你](http://tech.163.com/18/0704/21/DLTCQRVA00097U7T.html)
+* BYU Top of Mind: [Phone Spying](https://www.byuradio.org/episode/4f422926-3fbd-43b6-82bb-cf59be63b549?playhead=2538&autoplay=true)
 * WBTV: [Your apps may be spying on you](http://www.wbtv.com/clip/14470256/your-apps-may-be-spying-on-you)
 * News@Northeastern: [Is your smartphone spying on you?](https://news.northeastern.edu/2018/07/06/is-your-smartphone-spying-on-you/)
 * Fortune: [Your Android Apps Are (Probably) Not Snooping on You, a New Study Says](http://fortune.com/2018/07/03/android-app-smartphone-privacy/)
