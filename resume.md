@@ -8,8 +8,7 @@ Education
 *College of Computer and Information Science*  
 Bachelor of Science in Computer Science  
 Aug 2013 -  May 2018  
-* **Coursework:** Networks & Distributed Systems, Algorithms & Data, Game Artificial Intelligence, Computer Systems, Software Development, Programming Languages, Human Computer Interaction, Theory of Computation, Database Design, Object Oriented Design, Logic & Computation, Probability & Statistics, Linear Algebra, Mathematical Fundamentals for Games, Discrete Structures, Fundamentals of CS 1 & 2
-* **Extracurricular:** 
+* Extracurricular: 
 	* **CCIS Fellows** - mentored underclass CS students in co-op application process, conducted mock behavioral & technical interviews, served as a teaching assistant to a career preparation course (Fall 2017)
 
 Publications
