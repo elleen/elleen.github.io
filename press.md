@@ -14,6 +14,8 @@ Panoptispy
 * BYU Top of Mind: [Phone Spying](https://www.byuradio.org/episode/4f422926-3fbd-43b6-82bb-cf59be63b549?playhead=2538&autoplay=true)
 * WBTV: [Your apps may be spying on you](http://www.wbtv.com/clip/14470256/your-apps-may-be-spying-on-you)
 * News@Northeastern: [Is your smartphone spying on you?](https://news.northeastern.edu/2018/07/06/is-your-smartphone-spying-on-you/)
+* Recode: [Your phone is not secretly spying on your conversations. It doesn’t need to.](https://www.vox.com/2018/7/20/17594074/phone-spying-wiretap-microphone-smartphone-northeastern-dave-choffnes-christo-wilson-kara-swisher)
+* The Cyberwire: [Android device eavesdropping investigation.](https://thecyberwire.com/podcasts/cw-podcasts-rs-2018-09-15.html)
 * Fortune: [Your Android Apps Are (Probably) Not Snooping on You, a New Study Says](http://fortune.com/2018/07/03/android-app-smartphone-privacy/)
 * The Telegraph: [Apps caught secretly recording smartphone screens](https://www.telegraph.co.uk/technology/2018/07/04/apps-caught-secretly-recording-smartphone-screens/)
 * PC Mag: [Apps Aren't Listening to You, But They Are Recording Your Screen](https://www.pcmag.com/news/362277/apps-arent-listening-to-you-but-they-are-recording-your-sc)
