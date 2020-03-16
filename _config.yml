@@ -1,10 +1,7 @@
 theme: jekyll-theme-minimal
 icon: /assets/img/icon.png
 title: elleen pan
-description: |
-    <a href="/">home</a><br>
-    <a href="/resume">resume</a><br>
-    <a href="https://www.github.com/elleen">github</a><br>
+description: 
 favicon: /favicon.ico
 email_un: elleen
 email_domain: elleenpan.com
