@@ -8,7 +8,6 @@ I'm currently a software engineer at [Square](https://squareup.com/) working on 
 When I'm not in front of a screen, I spend my time exploring (mostly food in) ATL, hanging out with my [pup](/bean), climbing big rocks outdoors, climbing small (plastic) rocks indoors, taking care of my plants, and sleeping :-)  
 
 ---
-## Résumé
 
 ### Work
 **Square** · Atlanta, GA  
@@ -19,7 +18,7 @@ Doing cool stuff!
 **College of Computer and Information Science (Northeastern University)** · Boston, MA  
 *Research Assistant*  
 May 2017 - February 2018  
-Worked on a project researching privacy in mobile applications; specifically, media exfiltration in Application application and third-party libraries
+Worked on a project researching privacy in mobile applications; specifically, media exfiltration in Android apps and third-party libraries
 
 **Placester** · Boston, MA  
 *Engineering Co-op*  
