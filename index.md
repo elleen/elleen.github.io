@@ -3,9 +3,7 @@ layout: default
 ---
 # Hi!
 
-I'm currently a software engineer at [Square](https://squareup.com/) working on the (user) auth team in Atlanta. Previously, I was an undergrad at Northeastern University and got my BS in computer science. During that time, I did some research focusing on mobile privacy (specifically, media exfiltration from apps) and interned at a couple of swell startups. See below for more résumé-y things 👩🏻‍💻
-
-When I'm not in front of a screen, I spend my time exploring (mostly food in) ATL, hanging out with my [pup](/bean), climbing big rocks outdoors, climbing small (plastic) rocks indoors, taking care of my plants, and sleeping :-)  
+I'm currently a software engineer at [Square](https://squareup.com/) working on the (user) auth team in Atlanta. Previously, I was an undergrad at Northeastern University and got my BS in computer science. During that time, I did some research focusing on mobile privacy (specifically, media exfiltration from apps) and interned at a couple of swell startups. 👩🏻‍💻
 
 ---
 
@@ -25,7 +23,7 @@ Worked on a project researching privacy in mobile applications; specifically, me
 July - Dec 2016  
 Wrote React components for use in site templates, worked with [MLS](https://en.wikipedia.org/wiki/Multiple_listing_service) listing data in MongoDB & MySQL, fixed bugs in existing codebase  
 
-### Publication(…s?)
+### Publications
 Elleen Pan, Jingjing Ren, Martina Lindorfer, Christo Wilson, David Choffnes  
 **Panoptispy: Characterizing Audio and Video Exfiltration from Android Applications**  
 Proceedings on Privacy Enhancing Technologies (PETS), July 2018  
