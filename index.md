@@ -3,15 +3,16 @@ layout: default
 ---
 # Hi!
 
-I'm currently a software engineer at [Square](https://squareup.com/) working on the (user) auth team in Atlanta. Previously, I was an undergrad at Northeastern University and got my BS in computer science. During that time, I did some research focusing on mobile privacy (specifically, media exfiltration from apps) and interned at a couple of swell startups. 👩🏻‍💻
+I'm currently a software engineer at [Block](https://block.xyz/). I currently work on [Cash App's](https://cash.app/) marketing engineering team, and have also worked on [Square's](https://squareup.com/us/en) (user) authentication team.
+
+Before all that, I did my undergrad at Northeastern University and got my BS in computer science. During that time, I did some research focusing on mobile privacy (specifically, media exfiltration from apps) and interned at a couple of swell startups.
 
 ---
 
 ### Work
-**Square** · Atlanta, GA  
+**Block** · Atlanta, GA  
 *Software Engineer*  
-Aug 2018 - present  
-Doing cool stuff!  
+Doing cool stuff!
 
 **College of Computer and Information Science (Northeastern University)** · Boston, MA  
 *Research Assistant*  
