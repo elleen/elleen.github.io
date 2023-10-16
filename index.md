@@ -14,9 +14,10 @@ I did my undergrad at Northeastern University and got my BS in computer science.
 ### Industry Work
 **Block** · Atlanta, GA  
 *Software Engineer*  
+Aug 2018 - Sep 2022
 - **Marketing Eng**, Cash App (Jan 2021 - Sep 2022)  
-Worked on an internal tool used by the Cash Marketing team to carry out various campaigns, such as giveaways through social media posts, QR codes, etc. Did a little bit of frontend work in React and more backend work in Kotlin + SQL. 
-- **Authentication**, Square (Aug 2021 - Jan 2021)  
+Worked on an internal tool used by the Cash Marketing team to carry out various campaigns, such as (pretty large 🤑) giveaways through social media posts, QR codes, etc. Did a little bit of frontend work in React and more backend work in Kotlin + SQL. 
+- **Authentication**, Square (Aug 2018 - Jan 2021)  
 Built features for the login flow, two-factor authentication, session management, passwords, etc. Mostly backend work in Java + SQL and Redis.
 
 **Placester** · Boston, MA  
@@ -25,6 +26,10 @@ July - Dec 2016
 Wrote React components for use in site templates, worked with [MLS](https://en.wikipedia.org/wiki/Multiple_listing_service) listing data in MongoDB & MySQL, fixed bugs in existing codebase  
 
 ### Publications
+Leona Lassak, Elleen Pan, Blase Ur, Maximilian Golla
+**Why Aren’t We Using Passkeys? Obstacles Companies Face Deploying FIDO2 Passwordless Authentication**
+USENIX Security Symposium, August 2024
+
 Elleen Pan, Jingjing Ren, Martina Lindorfer, Christo Wilson, David Choffnes  
 **Panoptispy: Characterizing Audio and Video Exfiltration from Android Applications**  
 Proceedings on Privacy Enhancing Technologies (PETS), July 2018  
