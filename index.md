@@ -24,6 +24,11 @@ Aug 2013 -  May 2018
 
 
 ### Publications
+Arthur Borem, Elleen Pan, Olufunmilola Obielodan, Aurelie Roubinowitz, Luca Dovichi, Michelle L Mazurek, Blase Ur  
+**Data Subjects' Reactions to Exercising Their Right of Access**  
+USENIX Security Symposium, August 2024  
+[PDF](/files/borem-datasubjects-2024.pdf)  
+
 Leona Lassak, Elleen Pan, Blase Ur, Maximilian Golla  
 **Why Aren’t We Using Passkeys? Obstacles Companies Face Deploying FIDO2 Passwordless Authentication**  
 USENIX Security Symposium, August 2024  
