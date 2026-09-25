@@ -3,9 +3,10 @@ layout: default
 ---
 # Hi!
 
-I'm Elleen. I'm an engineer @ [Cloudflare](https://www.cloudflare.com/).
+I'm Elleen. I'm an engineer @ [Vivid Seats](https://www.vividseats.com/).
 
 In my past lives, I have been:
+* a systems engineer / [measurer](https://archive.ph/jnM6J) at [Cloudflare](https://www.cloudflare.com/)
 * an unsuccessful PhD student at [UChicago](https://www.uchicago.edu/) ([pubs](/publications))
 * a software engineer at [Block](https://block.xyz/), working on marketing engineering at [Cash App](https://cash.app/) and user authentication at [Square](https://squareup.com/us/en) 
 * an undergrad at [Northeastern](https://www.khoury.northeastern.edu/), where I got my BS in computer science and did research on [mobile app privacy](/files/pan-panoptispy-2018.pdf) ([press](/press))
