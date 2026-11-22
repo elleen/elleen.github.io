@@ -1,4 +1,5 @@
 # On "failure"
+*November 22, 2026*
 
 I might seem like a negative Nancy the way I've written a couple of these less-than-ideal situations from my past experiences. I promise I don't intend to be! Life is life, and I'm grateful for the good and the bad and how it has shaped me. 
 
